@@ -1,6 +1,6 @@
 # Ikari Warriors VS Zombies
 
-I'm throwing this up on the internet because "why not." This is was a learning project when I was new to JAVA, and I thought it would be fun to open-source it. Literally the worst thing I've ever written. YOU ARE WARNED.
+I'm throwing this up on the internet because "why not." This is was a learning project when I was new to Java, and I thought it would be fun to open-source it. Literally the worst thing I've ever written. YOU ARE WARNED.
 
 ## Background
 
