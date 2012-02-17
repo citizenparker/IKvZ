@@ -23,10 +23,10 @@ However, this does have the greatest two lines in the history of programming!
 
 Incredibly enough, this still runs just as well as ever (that is, not well). I credit Java with that - I had nothing to do with it. To get it working, do the following:
 
-'''
+```java
 javac IKVZ.java -Xlint:unchecked -Xlint:deprecation
 java IKVZ
-'''
+```
 
 ## Artwork
 
