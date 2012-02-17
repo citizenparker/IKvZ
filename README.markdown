@@ -14,10 +14,10 @@ Also I had _just_ seen Evil Dead for the first time in my life.
 
 However, this does have the greatest two lines in the history of programming!
 
-'''java
-	// Length of ABBA_CLIP audio in milliseconds
-	private static final int ABBA_TIME =				3748;
-'''
+```java
+  // Length of ABBA_CLIP audio in milliseconds
+  private static final int ABBA_TIME = 3748;
+```
 
 ## Building from Source
 
