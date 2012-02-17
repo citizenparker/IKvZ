@@ -8,7 +8,7 @@ I spent a summer on this because I wanted to learn how Java programming worked, 
 
 ## Why This is Terrible
 
-It's a 2,123 java file with 13 classes in it. Still not convinced? Go check out `renderGame()` to see my complete lack of knowledge about proper polymorphism in OO. Or my incredible overuse of comments without explaining anything at all. Or the `getKey()` method where I have nested switch statements, definitely a low point in my programming career. How can you pick just one reason why this is terrible?
+It's a 2,123-line java file with 13 classes in it. Still not convinced? Go check out `renderGame()` to see my complete lack of knowledge of polymorphism in OO. Or my incredible overuse of comments without explaining anything at all. Or the `getKey()` method where I have nested switch statements, definitely a low point in my programming career. How can you pick just one reason why this is terrible?
 
 Also I had _just_ seen Evil Dead for the first time in my life.
 
